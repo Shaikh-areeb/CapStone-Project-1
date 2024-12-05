@@ -19,7 +19,7 @@ Tracking conversion rates to assess marketing effectiveness.
 
  # Dashboard Overview 
  ## Dashboard
- ![Dashboard]()
+ ![Dashboard](https://github.com/Shaikh-areeb/CapStone-Project-1/blob/main/Dashboard%20Images/Screenshot%202024-12-05%20194015.png)
 
 ## Product Details 
  ![Product Details]()
