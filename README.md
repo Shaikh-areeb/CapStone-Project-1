@@ -17,6 +17,13 @@ Tracking conversion rates to assess marketing effectiveness.
  Views and Engagement to monitor customer interactions.
  Average Conversion Rate tracked by channel and region.
 
+ # Dashboard Overview 
+ ## Dashboard
+ ![Dashboard]()
+
+## Product Details 
+ ![Product Details]()
+
 # Business Problem the Dashboard Solves 
 Profitability Issues: The dashboard helps track and identify which campaigns are the most profitable, ensuring that funds are allocated efficiently.
 Cost Management: By visualizing cost data and comparing it with revenues, businesses can pinpoint areas where spending might need to be reduced.
