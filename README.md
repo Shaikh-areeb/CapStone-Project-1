@@ -22,7 +22,7 @@ Tracking conversion rates to assess marketing effectiveness.
  ![Dashboard](https://github.com/Shaikh-areeb/CapStone-Project-1/blob/main/Dashboard%20Images/Screenshot%202024-12-05%20194015.png)
 
 ## Product Details 
- ![Product Details]()
+ ![Product Details](https://github.com/Shaikh-areeb/CapStone-Project-1/blob/main/Dashboard%20Images/Screenshot%202024-12-05%20192848.png)
 
 # Business Problem the Dashboard Solves 
 Profitability Issues: The dashboard helps track and identify which campaigns are the most profitable, ensuring that funds are allocated efficiently.
