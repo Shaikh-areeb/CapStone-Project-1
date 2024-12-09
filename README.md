@@ -25,10 +25,14 @@ Tracking conversion rates to assess marketing effectiveness.
  ![Product Details](https://github.com/Shaikh-areeb/CapStone-Project-1/blob/main/Dashboard%20Images/Screenshot%202024-12-05%20192848.png)
 
 # Business Problem the Dashboard Solves 
-Profitability Issues: The dashboard helps track and identify which campaigns are the most profitable, ensuring that funds are allocated efficiently.
-Cost Management: By visualizing cost data and comparing it with revenues, businesses can pinpoint areas where spending might need to be reduced.
-Campaign Effectiveness: The dashboard helps assess which campaigns lead to higher conversion rates, optimizing future marketing strategies.
-Trends and Forecasting: With historical data (2022–2024), the dashboard reveals trends and forecasts, helping businesses plan their future campaigns based on past performance.
+### Profitability Issues: 
+The dashboard helps track and identify which campaigns are the most profitable, ensuring that funds are allocated efficiently.
+### Cost Management: 
+By visualizing cost data and comparing it with revenues, businesses can pinpoint areas where spending might need to be reduced.
+### Campaign Effectiveness: 
+The dashboard helps assess which campaigns lead to higher conversion rates, optimizing future marketing strategies.
+### Trends and Forecasting: 
+With historical data (2022–2024), the dashboard reveals trends and forecasts, helping businesses plan their future campaigns based on past performance.
 
 # Recommendations 
 Invest more in campaigns with higher ROI.
